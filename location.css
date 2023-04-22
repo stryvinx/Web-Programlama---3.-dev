@@ -21,10 +21,14 @@
 
 
 .mapPhoto {
+    background-image: url(assets/desktop/image-map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    object-fit: contain;
+
 }
 
 .backHomeButton {
