@@ -25,7 +25,7 @@ h2 {
 
 .heroContainer {
 
-    background-image: url(/assets/desktop/image-hero.jpg), linear-gradient(270deg, #fff 50%, #151515 50%);
+    background-image: url(assets/desktop/image-hero.jpg), linear-gradient(270deg, #fff 50%, #151515 50%);
     -webkit-background-size: contain;
     background-size: contain;
     object-fit: contain;
@@ -74,7 +74,7 @@ h2 {
     width: 236px;
     height: 56px;
     color: white;
-    background-image: url(/assets/icon-arrow-right.svg), linear-gradient(90deg, #000000 190px, #d5966c 45px);
+    background-image: url(assets/icon-arrow-right.svg), linear-gradient(90deg, #000000 190px, #d5966c 45px);
     background-repeat: no-repeat;
     background-position: right;
     background-position-x: 92%;
@@ -86,7 +86,7 @@ h2 {
 
 .homeButton:hover {
     color: white;
-    background-image: url(/assets/icon-arrow-right.svg), linear-gradient(90deg, #d5966c 190px, #000000 45px);
+    background-image: url(assets/icon-arrow-right.svg), linear-gradient(90deg, #d5966c 190px, #000000 45px);
 }
 
 .contentContainer {
@@ -276,7 +276,7 @@ footer {
 
     .heroContainer {
         margin: 0;
-        background-image: url(/assets/desktop/image-hero.jpg);
+        background-image: url(assets/desktop/image-hero.jpg);
         object-fit: contain;
         flex-direction: column;
         background-position: left top;
